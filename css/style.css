@@ -1,0 +1,25 @@
+* {margin: 0;
+padding: 0;}
+body{
+    font-family: 'Poppins', sans-serif;
+   
+    color: #808080;
+}
+h2{
+    font-size: 30px;
+    font-weight: 600;
+    color: #444444;
+}
+
+.navbar-light .navbar-brand{
+    color: green;
+font-size: 25px;
+    font-weight: 600;
+}
+.navbar ul li a{
+    font-weight: 600;
+    
+}
+.navbar ul li a:hover{
+    color: green;
+}
